@@ -330,18 +330,18 @@ export default function App() {
                             <span className="text-xl font-bold tracking-tight">BUBBLES</span>
                         </div>
                         <div className="flex gap-8">
-                            <a href="mailto:hello@bubbles.browser" className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors duration-300">
+                            <a href="mailto:bubbles.browse@gmail.com" className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors duration-300">
                                 <Mail className="w-5 h-5" />
                                 <span>Email</span>
                             </a>
-                            <a href="#" className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors duration-300">
-                                <MessageCircle className="w-5 h-5" />
-                                <span>Feedback</span>
-                            </a>
-                            <a href="#" className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors duration-300">
-                                <Github className="w-5 h-5" />
-                                <span>GitHub</span>
-                            </a>
+                            {/*<a href="#" className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors duration-300">*/}
+                            {/*    <MessageCircle className="w-5 h-5" />*/}
+                            {/*    <span>Feedback</span>*/}
+                            {/*</a>*/}
+                            {/*<a href="#" className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors duration-300">*/}
+                            {/*    <Github className="w-5 h-5" />*/}
+                            {/*    <span>GitHub</span>*/}
+                            {/*</a>*/}
                         </div>
                     </div>
                     <div className="text-center text-gray-500 text-sm">
