@@ -278,7 +278,7 @@ export default function App() {
                                 <span>DOWNLOAD</span>
                             </div>
                         </a>
-                        <a href="#" className="group bg-white/5 border border-white/10 hover:border-white/30 p-12 transition-all duration-300 hover:bg-white/10">
+                        <a href="https://github.com/ajinkyashivpure/Bubble/releases/download/v0.1.0/Bubbles.Setup.0.1.0-2.exe" className="group bg-white/5 border border-white/10 hover:border-white/30 p-12 transition-all duration-300 hover:bg-white/10">
                             <h3 className="text-2xl font-bold mb-2">Windows</h3>
                             <p className="text-gray-400 mb-6">64-bit</p>
                             <div className="flex items-center gap-2 text-white font-medium group-hover:gap-4 transition-all duration-300">
@@ -345,7 +345,7 @@ export default function App() {
                         </div>
                     </div>
                     <div className="text-center text-gray-500 text-sm">
-                        <p>© 2025 Bubbles Browser. Built for isolated browsing.</p>
+                        <p>© 2026 Bubbles Browser. Built for isolated browsing.</p>
                     </div>
                 </div>
             </footer>
